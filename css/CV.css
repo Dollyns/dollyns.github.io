@@ -1,0 +1,147 @@
+@font-face {
+    font-family: 'texgyreadventorregular';
+    src: url('fonts/texgyreadventor-regular-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+     font-family: 'open_sansregular';
+      src:url('fonts/OpenSans-Regular-webfont.ttf') format('truetype');
+}
+body {
+	font-family: 'open_sansregular';
+	background:#ffffff;
+	font-size: 100%;
+
+}
+ul{
+	list-style-type: none;
+	padding-top: 15px;
+	padding-left: 20px;
+	margin-bottom: 0px;
+}
+
+ul li{
+	padding-bottom: 10px;
+}
+li{
+	list-style-type: none;
+}
+
+
+
+#caption {
+	color: white;
+	font-weight: bolder;
+	font-size: 30px;
+	padding: 10px;
+	margin-bottom: 0px;
+}
+
+#ava{
+	/*padding-bottom: 15px;*/
+    margin-top: 50px;
+}
+
+
+.bullet{
+	list-style-type: circle;
+	color: white;
+}
+
+.leftcol{
+	color: white;
+	text-align: left !important;
+}
+
+.icon{
+	color: white;
+	font-size: 18px;
+	font-weight: bold;
+	padding-right: 5px;
+	padding-left: 5px !important;
+}
+
+.whitefont{
+	font-size: 125%;
+	color: white;
+}
+
+.title{
+	margin-top: 10px !important;
+	margin-bottom: 0px !important;
+	padding-left: 20px;
+	font-weight: bold;
+}
+
+.title-right{
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+	font-size: 250%;
+
+}
+
+.para{
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	margin-bottom: 0px;
+	font-size: 125%;
+}
+.icon-round{
+	width: 60px;
+	height: 60px;
+	line-height: 60px;
+	border-radius: 50%;
+	background-color: cadetblue;
+	text-align: center;
+	float: left;
+}
+.mid{
+	font-size: 150% !important;
+	
+}
+.text-round{
+	float: left;
+	height: 60px;
+	line-height: 70px;
+}
+.top-icon{
+	height: 60px;
+}
+.right-icon{
+	color: cadetblue;
+	margin-top: : 30px !important;
+	margin-right: 15px;
+	margin-left: 20px;
+	margin-bottom: 5px;
+	
+
+}
+.sub-title{
+	text-align: left;
+	margin-left: 50px;
+	font-size: 170%
+}
+.sub-title-date{
+	float: right;
+	padding-right: 20px;
+}
+.right-para{
+	text-align: left;
+	margin-left: 50px;
+	margin-bottom: 25px;
+	font-size: 125%;
+}
+
+.progress-bar2{
+	margin-left: 20px;
+	margin-right: 15px;
+	margin-top: -15px;
+	margin-bottom: 0px !important;
+}
+.column{
+	height: auto;
+}
+
+
